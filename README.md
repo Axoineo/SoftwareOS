@@ -137,32 +137,44 @@ softwareos/
 
 ---
 
+---
+
 ## Roadmap
 
-### Foundation
+SoftwareOS is being developed incrementally. The following roadmap outlines the planned milestones for the platform.
 
-- [ ] Core architecture
-- [ ] SDK
-- [ ] System lifecycle
-- [ ] Package manager
-- [ ] Developer CLI
+### Core Platform
+
+| Component | Status |
+|-----------|--------|
+| Core Architecture | Planned |
+| SoftwareOS SDK | Planned |
+| System Lifecycle Manager | Planned |
+| Package Manager | Planned |
+| Developer CLI | Planned |
 
 ### Systems
 
-- [ ] WeatherOS
-- [ ] AIOS
-- [ ] RenderOS
-- [ ] VisionOS
-- [ ] RoboticsOS
+| System | Description | Status |
+|---------|-------------|--------|
+| WeatherOS | AI-powered weather forecasting and climate analysis | Planned |
+| AIOS | Artificial intelligence and machine learning environment | Planned |
+| RenderOS | 3D graphics, rendering, and digital content creation | Planned |
+| VisionOS | Computer vision and image processing platform | Planned |
+| RoboticsOS | Robotics development and automation environment | Planned |
 
-### Platform
+### Platform Services
 
-- [ ] Documentation
-- [ ] Developer Portal
-- [ ] Extension API
-- [ ] Plugin Framework
-- [ ] Marketplace
+| Service | Status |
+|---------|--------|
+| Documentation | Planned |
+| Developer Portal | Planned |
+| Extension Framework | Planned |
+| Plugin SDK | Planned |
+| Marketplace | Planned |
+| Cloud Services | Planned |
 
+---
 ---
 
 ## Contributing
