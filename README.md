@@ -6,7 +6,7 @@
 
 ### A Modular Software Operating Environment
 
-SoftwareOS (sOS) is an open-source software operating environment that provides a unified architecture for building domain-specific Systems. Each System is designed exclusively for SoftwareOS and operates as a complete, independent environment tailored to a specific field such as artificial intelligence, weather forecasting, robotics, scientific computing, or 3D content creation.
+SoftwareOS (SOS) is an open-source software operating environment that provides a unified architecture for building domain-specific Systems. Each System is designed exclusively for SoftwareOS and operates as a complete, independent environment tailored to a specific field such as artificial intelligence, weather forecasting, robotics, scientific computing, or 3D content creation.
 
 <br>
 
