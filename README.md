@@ -44,6 +44,24 @@ SoftwareOS (SOS) is an open-source software operating environment that provides 
 <img src="https://img.shields.io/badge/Apache%202.0-License-blue?style=for-the-badge">
 </a>
 
+<table align="center">
+<tr>
+<td align="center">
+
+### 🌐 Community
+
+Join the official **SoftwareOS** community for announcements, development updates, discussions, and support.
+
+<br>
+
+<a href="https://t.me/software0S">
+<img src="https://img.shields.io/badge/Telegram-Join%20SoftwareOS%20Community-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
+</td>
+</tr>
+</table>
+
 </p>
 
 </div>
