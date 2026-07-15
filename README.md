@@ -70,7 +70,7 @@ Join the official **SoftwareOS** community for announcements, development update
 
 ## Overview
 
-SoftwareOS (sOS) is an open-source software operating environment designed to organize complex software into independent, purpose-built **Systems**.
+SoftwareOS (SOS) is an open-source software operating environment designed to organize complex software into independent, purpose-built **Systems**.
 
 Unlike traditional software platforms where unrelated applications coexist, SoftwareOS is built around the concept that every System is a complete operating environment dedicated to a single domain.
 
