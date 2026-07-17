@@ -48,7 +48,7 @@ SoftwareOS (SOS) is an open-source software operating environment that provides 
 <tr>
 <td align="center">
 
-### 🌐 Community
+## 🌐 Community
 
 Join the official **SoftwareOS** community for announcements, development updates, discussions, and support.
 
